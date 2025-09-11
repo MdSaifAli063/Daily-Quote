@@ -173,7 +173,7 @@ MIT License — feel free to use and modify for personal or commercial projects.
 
 ## 🔗 Links
 
-- Live Demo: add your link here
+- Live Demo: null
 - Issues: open an issue with steps to reproduce and environment details
 - Discussions: propose ideas or enhancements
 
