@@ -167,7 +167,7 @@ Please keep UI/UX consistent and accessible.
 
 ## 📄 License
 
-MIT License — feel free to use and modify for personal or commercial projects. See LICENSE for details.
+MIT License — feel free to use and modify for personal or commercial projects.
 
 ---
 
